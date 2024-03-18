@@ -1,0 +1,14 @@
+.groupone, .grouptwo {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.groupone{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.grouptwo {
+    background-color: yellow;
+}
